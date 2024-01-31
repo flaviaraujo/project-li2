@@ -8,6 +8,7 @@ Para consultar o enunciado completo do projeto, ver: https://docenteslab2021.git
 </br>
 </br>
 Equipa de Trabalho:
+</br>
 a97516,Diana Filipa Ferreira Malheiro Teixeira,dianamalheiro02
 </br>
 a96587,Flávia Alexandra da Silva Araújo,flaviaraujo
