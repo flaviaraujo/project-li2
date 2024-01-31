@@ -9,11 +9,11 @@ Para consultar o enunciado completo do projeto, ver: https://docenteslab2021.git
 </br>
 Equipa de Trabalho:
 </br>
-a97516,Diana Filipa Ferreira Malheiro Teixeira,dianamalheiro02
+a97516, Diana Filipa Ferreira Malheiro Teixeira, dianamalheiro02
 </br>
-a96587,Flávia Alexandra da Silva Araújo,flaviaraujo
+a96587, Flávia Alexandra da Silva Araújo, flaviaraujo
 </br>
-a95408,Marta Sofia Barbosa Ribeiro,marta-ribeiro
+a95408, Marta Sofia Barbosa Ribeiro, marta-ribeiro
 </br>
 </br>
 Classificação: 15
