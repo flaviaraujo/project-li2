@@ -1,5 +1,5 @@
 # LI2
-Projeto $0M referente à UC Laboratórios de Informática II, ano letivo 2020/2021
+Projeto $0M referente à UC Laboratórios de Informática II, no ano letivo 2020/2021
 </br>
 </br>
 O $0M é um interpretador de uma linguagem de programação orientada à stack. O seu programa deverá permitir ler comandos do stdin ou de um ficheiro, interpretá-los, e imprimir o conteúdo da stack no stdout.
